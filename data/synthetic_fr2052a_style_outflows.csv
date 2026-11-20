@@ -1,0 +1,7 @@
+recon_id,product_description,schedule_amount
+REC_001,Term drawn (synthetic GL 1050),11960706475.69
+REC_002,Revolver drawn (synthetic GL 1050),4963100280.6
+REC_003,Revolver undrawn (synthetic GL 2100),4666438854.15
+REC_004,Letter of credit commitments (synthetic GL 2100),2623554414.97
+REC_005,Bridge commitments (synthetic GL 2100),1259881688.19
+REC_006,Fee clearing residual,45210.8

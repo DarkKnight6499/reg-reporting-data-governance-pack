@@ -1,0 +1,19 @@
+dq_rule_id,field_name,dq_dimension,dq_rule_description,total_records,pass_count,fail_count,pass_rate_pct
+DQ_COMP_01,borrower_id,Completeness,"Non-null, non-blank borrower ID",5000,5000,0,100.0
+DQ_COMP_02,borrower_lei,Completeness,Populated 20-character alphanumeric synthetic LEI; no checksum validation,5000,5000,0,100.0
+DQ_COMP_03,facility_id,Completeness,Populated unique facility ID,5000,5000,0,100.0
+DQ_VAL_01,facility_type,Validity,Product belongs to configured taxonomy,5000,5000,0,100.0
+DQ_VAL_02,committed_exposure,Validity,Finite positive commitment,5000,5000,0,100.0
+DQ_RSN_01,drawn_balance,Reasonableness,Finite non-negative drawn balance within commitment tolerance; utilized exposure equals drawn,5000,5000,0,100.0
+DQ_VAL_03,risk_rating,Validity,Integer rating in configured scale,5000,5000,0,100.0
+DQ_RSN_02,collateral_value,Reasonableness,Finite non-negative collateral value,5000,5000,0,100.0
+DQ_RSN_03,maturity_date,Reasonableness,Valid maturity on or after valid origination,5000,5000,0,100.0
+DQ_REF_01,collateral_id,Referential,Facility and collateral pair exists in clean synthetic reference,5000,5000,0,100.0
+DQ_VAL_04,borrower_name,Validity,Borrower name is populated,5000,5000,0,100.0
+DQ_VAL_05,industry_naics,Validity,Industry code belongs to configured synthetic sectors,5000,5000,0,100.0
+DQ_RSN_04,utilization_rate,Reasonableness,Finite utilization in zero to one range agrees with drawn divided by commitment,5000,5000,0,100.0
+DQ_VAL_06,rating_grade_desc,Validity,Rating description matches configured grade,5000,5000,0,100.0
+DQ_VAL_07,collateral_type,Validity,Collateral type belongs to configured taxonomy,5000,5000,0,100.0
+DQ_RSN_05,origination_date,Reasonableness,Valid origination on or before reporting date,5000,5000,0,100.0
+DQ_VAL_08,interest_rate,Validity,Finite interest rate within configured limits,5000,5000,0,100.0
+DQ_VAL_09,currency,Validity,Currency matches synthetic base currency,5000,5000,0,100.0

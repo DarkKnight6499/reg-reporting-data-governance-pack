@@ -1,0 +1,7 @@
+age_bucket,open_issues_count,avg_age_days,max_age_days,pct_of_total_open
+0-30 Days,38,20.13,30,25.33
+31-60 Days,25,44.36,58,16.67
+61-90 Days,33,76.91,90,22.0
+91+ Days,54,116.56,145,36.0
+ALL OPEN (TOTAL),150,71.37,145,100.0
+HISTORICAL CLOSED (MTTC),12,37.42,68,0.0

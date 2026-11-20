@@ -1,0 +1,44 @@
+{
+  "author": "Project Author",
+  "review_date": "2026-11-20",
+  "interpreter": "python",
+  "python_version": "3.12.14",
+  "pandas_version": "3.0.1",
+  "modules_available": {
+    "numpy": true,
+    "pandas": true,
+    "matplotlib": false,
+    "openpyxl": true,
+    "pytest": false
+  },
+  "scripts": [
+    {
+      "script": "run_all.py",
+      "exit_code": 0
+    },
+    {
+      "script": "tests\\test_cecl_roll_forward.py",
+      "exit_code": 0
+    },
+    {
+      "script": "tests\\test_dq_defect_detection.py",
+      "exit_code": 0
+    },
+    {
+      "script": "tests\\test_reconciliation_rules.py",
+      "exit_code": 0
+    },
+    {
+      "script": "tests\\test_review_regressions.py",
+      "exit_code": 0
+    },
+    {
+      "script": "tests\\test_schedule_tie_out.py",
+      "exit_code": 0
+    }
+  ],
+  "second_pipeline_exit_code": 0,
+  "deterministic_artifact_count": 23,
+  "deterministic_hashes_match": true,
+  "syntax_and_punctuation_checks_passed": true
+}

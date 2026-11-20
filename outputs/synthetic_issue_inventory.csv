@@ -1,0 +1,151 @@
+facility_id,defect_type,issue_id,age_days,age_bucket,issue_status,remediation_owner
+FAC_00051,Missing Borrower LEI,ISSUE_0001,119,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00073,Drawn Balance Exceeds Committed Exposure,ISSUE_0002,114,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00097,Drawn Balance Exceeds Committed Exposure,ISSUE_0003,29,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00105,Negative Collateral Valuation,ISSUE_0004,29,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00120,Maturity Date Precedes Origination Date,ISSUE_0005,30,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00297,Orphaned Facility Missing Borrower ID,ISSUE_0006,105,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00329,Drawn Balance Exceeds Committed Exposure,ISSUE_0007,19,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00354,Invalid Risk Rating Out of Bounds,ISSUE_0008,110,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00374,Missing Borrower LEI,ISSUE_0009,26,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00411,Maturity Date Precedes Origination Date,ISSUE_0010,29,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00449,Missing Borrower LEI,ISSUE_0011,28,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00505,Drawn Balance Exceeds Committed Exposure,ISSUE_0012,132,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00513,Orphaned Facility Missing Borrower ID,ISSUE_0013,20,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00523,Missing Borrower LEI,ISSUE_0014,24,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00526,Orphaned Facility Missing Borrower ID,ISSUE_0015,130,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00569,Orphaned Facility Missing Borrower ID,ISSUE_0016,91,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00581,Missing Borrower LEI,ISSUE_0017,87,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_00605,Invalid Risk Rating Out of Bounds,ISSUE_0018,133,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00626,Missing Borrower LEI,ISSUE_0019,88,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_00651,Negative Collateral Valuation,ISSUE_0020,31,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_00660,Orphaned Facility Missing Borrower ID,ISSUE_0021,10,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00697,Maturity Date Precedes Origination Date,ISSUE_0022,83,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_00709,Drawn Balance Exceeds Committed Exposure,ISSUE_0023,143,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00714,Drawn Balance Exceeds Committed Exposure,ISSUE_0024,91,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00717,Orphaned Facility Missing Borrower ID,ISSUE_0025,49,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_00720,Negative Collateral Valuation,ISSUE_0026,77,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_00821,Drawn Balance Exceeds Committed Exposure,ISSUE_0027,49,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_00869,Invalid Risk Rating Out of Bounds,ISSUE_0028,94,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_00899,Maturity Date Precedes Origination Date,ISSUE_0029,24,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_00932,Maturity Date Precedes Origination Date,ISSUE_0030,73,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_00958,Maturity Date Precedes Origination Date,ISSUE_0031,85,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01141,Negative Collateral Valuation,ISSUE_0032,45,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01162,Maturity Date Precedes Origination Date,ISSUE_0033,18,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_01191,Drawn Balance Exceeds Committed Exposure,ISSUE_0034,10,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_01192,Maturity Date Precedes Origination Date,ISSUE_0035,19,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_01221,Maturity Date Precedes Origination Date,ISSUE_0036,31,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01238,Invalid Risk Rating Out of Bounds,ISSUE_0037,21,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_01266,Invalid Risk Rating Out of Bounds,ISSUE_0038,46,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01333,Invalid Risk Rating Out of Bounds,ISSUE_0039,117,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01346,Missing Borrower LEI,ISSUE_0040,107,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01380,Maturity Date Precedes Origination Date,ISSUE_0041,99,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01397,Missing Borrower LEI,ISSUE_0042,74,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01401,Drawn Balance Exceeds Committed Exposure,ISSUE_0043,39,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01448,Negative Collateral Valuation,ISSUE_0044,27,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_01455,Drawn Balance Exceeds Committed Exposure,ISSUE_0045,50,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01506,Invalid Risk Rating Out of Bounds,ISSUE_0046,66,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01573,Missing Borrower LEI,ISSUE_0047,111,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01661,Invalid Risk Rating Out of Bounds,ISSUE_0048,62,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01688,Maturity Date Precedes Origination Date,ISSUE_0049,121,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01719,Negative Collateral Valuation,ISSUE_0050,67,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01732,Invalid Risk Rating Out of Bounds,ISSUE_0051,10,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_01747,Missing Borrower LEI,ISSUE_0052,99,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01767,Orphaned Facility Missing Borrower ID,ISSUE_0053,114,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01784,Orphaned Facility Missing Borrower ID,ISSUE_0054,47,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01818,Drawn Balance Exceeds Committed Exposure,ISSUE_0055,56,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01830,Negative Collateral Valuation,ISSUE_0056,57,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_01865,Drawn Balance Exceeds Committed Exposure,ISSUE_0057,143,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_01884,Invalid Risk Rating Out of Bounds,ISSUE_0058,84,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01907,Drawn Balance Exceeds Committed Exposure,ISSUE_0059,79,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_01929,Missing Borrower LEI,ISSUE_0060,12,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02051,Invalid Risk Rating Out of Bounds,ISSUE_0061,45,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02056,Missing Borrower LEI,ISSUE_0062,62,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_02075,Negative Collateral Valuation,ISSUE_0063,51,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02092,Invalid Risk Rating Out of Bounds,ISSUE_0064,111,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02106,Orphaned Facility Missing Borrower ID,ISSUE_0065,143,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02120,Orphaned Facility Missing Borrower ID,ISSUE_0066,138,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02133,Invalid Risk Rating Out of Bounds,ISSUE_0067,88,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_02162,Maturity Date Precedes Origination Date,ISSUE_0068,24,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02190,Missing Borrower LEI,ISSUE_0069,53,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02207,Negative Collateral Valuation,ISSUE_0070,85,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_02221,Missing Borrower LEI,ISSUE_0071,81,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_02231,Drawn Balance Exceeds Committed Exposure,ISSUE_0072,93,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02242,Negative Collateral Valuation,ISSUE_0073,5,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02245,Missing Borrower LEI,ISSUE_0074,105,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02277,Drawn Balance Exceeds Committed Exposure,ISSUE_0075,134,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02279,Maturity Date Precedes Origination Date,ISSUE_0076,139,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02313,Maturity Date Precedes Origination Date,ISSUE_0077,113,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02361,Maturity Date Precedes Origination Date,ISSUE_0078,48,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02392,Drawn Balance Exceeds Committed Exposure,ISSUE_0079,6,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02484,Invalid Risk Rating Out of Bounds,ISSUE_0080,29,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02488,Negative Collateral Valuation,ISSUE_0081,130,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02517,Missing Borrower LEI,ISSUE_0082,92,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02543,Orphaned Facility Missing Borrower ID,ISSUE_0083,34,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02632,Orphaned Facility Missing Borrower ID,ISSUE_0084,124,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02699,Invalid Risk Rating Out of Bounds,ISSUE_0085,95,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02757,Orphaned Facility Missing Borrower ID,ISSUE_0086,141,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02779,Drawn Balance Exceeds Committed Exposure,ISSUE_0087,34,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02831,Drawn Balance Exceeds Committed Exposure,ISSUE_0088,78,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_02866,Orphaned Facility Missing Borrower ID,ISSUE_0089,33,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_02890,Drawn Balance Exceeds Committed Exposure,ISSUE_0090,18,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02900,Drawn Balance Exceeds Committed Exposure,ISSUE_0091,20,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02909,Invalid Risk Rating Out of Bounds,ISSUE_0092,139,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02915,Maturity Date Precedes Origination Date,ISSUE_0093,21,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_02933,Orphaned Facility Missing Borrower ID,ISSUE_0094,120,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_02983,Orphaned Facility Missing Borrower ID,ISSUE_0095,92,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03013,Orphaned Facility Missing Borrower ID,ISSUE_0096,83,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03125,Negative Collateral Valuation,ISSUE_0097,70,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03186,Negative Collateral Valuation,ISSUE_0098,9,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_03187,Maturity Date Precedes Origination Date,ISSUE_0099,80,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03258,Missing Borrower LEI,ISSUE_0100,112,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03260,Negative Collateral Valuation,ISSUE_0101,27,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_03355,Missing Borrower LEI,ISSUE_0102,32,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_03384,Drawn Balance Exceeds Committed Exposure,ISSUE_0103,93,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03401,Invalid Risk Rating Out of Bounds,ISSUE_0104,106,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03452,Negative Collateral Valuation,ISSUE_0105,136,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03456,Maturity Date Precedes Origination Date,ISSUE_0106,94,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03525,Missing Borrower LEI,ISSUE_0107,17,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_03543,Missing Borrower LEI,ISSUE_0108,126,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03594,Orphaned Facility Missing Borrower ID,ISSUE_0109,88,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03601,Orphaned Facility Missing Borrower ID,ISSUE_0110,62,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03602,Invalid Risk Rating Out of Bounds,ISSUE_0111,37,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_03640,Maturity Date Precedes Origination Date,ISSUE_0112,73,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03659,Missing Borrower LEI,ISSUE_0113,111,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03721,Invalid Risk Rating Out of Bounds,ISSUE_0114,90,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03729,Missing Borrower LEI,ISSUE_0115,69,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_03738,Orphaned Facility Missing Borrower ID,ISSUE_0116,130,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03826,Drawn Balance Exceeds Committed Exposure,ISSUE_0117,26,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_03827,Invalid Risk Rating Out of Bounds,ISSUE_0118,124,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03904,Missing Borrower LEI,ISSUE_0119,39,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_03923,Maturity Date Precedes Origination Date,ISSUE_0120,29,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_03926,Missing Borrower LEI,ISSUE_0121,100,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_03938,Maturity Date Precedes Origination Date,ISSUE_0122,106,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04013,Negative Collateral Valuation,ISSUE_0123,21,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04017,Negative Collateral Valuation,ISSUE_0124,40,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_04092,Invalid Risk Rating Out of Bounds,ISSUE_0125,68,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04111,Negative Collateral Valuation,ISSUE_0126,126,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04125,Missing Borrower LEI,ISSUE_0127,30,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04141,Invalid Risk Rating Out of Bounds,ISSUE_0128,133,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04172,Invalid Risk Rating Out of Bounds,ISSUE_0129,89,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04206,Negative Collateral Valuation,ISSUE_0130,10,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04217,Maturity Date Precedes Origination Date,ISSUE_0131,13,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04221,Negative Collateral Valuation,ISSUE_0132,14,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04263,Missing Borrower LEI,ISSUE_0133,112,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04294,Negative Collateral Valuation,ISSUE_0134,63,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04295,Drawn Balance Exceeds Committed Exposure,ISSUE_0135,52,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_04305,Invalid Risk Rating Out of Bounds,ISSUE_0136,137,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04335,Maturity Date Precedes Origination Date,ISSUE_0137,84,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04361,Drawn Balance Exceeds Committed Exposure,ISSUE_0138,58,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_04362,Negative Collateral Valuation,ISSUE_0139,89,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04390,Negative Collateral Valuation,ISSUE_0140,63,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04395,Missing Borrower LEI,ISSUE_0141,86,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04453,Invalid Risk Rating Out of Bounds,ISSUE_0142,96,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04456,Missing Borrower LEI,ISSUE_0143,117,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04478,Maturity Date Precedes Origination Date,ISSUE_0144,62,61-90 Days,Synthetic open issue,Synthetic data steward
+FAC_04505,Negative Collateral Valuation,ISSUE_0145,53,31-60 Days,Synthetic open issue,Synthetic data steward
+FAC_04594,Missing Borrower LEI,ISSUE_0146,21,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04735,Negative Collateral Valuation,ISSUE_0147,145,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04859,Missing Borrower LEI,ISSUE_0148,15,0-30 Days,Synthetic open issue,Synthetic data steward
+FAC_04987,Maturity Date Precedes Origination Date,ISSUE_0149,108,91+ Days,Synthetic open issue,Synthetic data steward
+FAC_04993,Drawn Balance Exceeds Committed Exposure,ISSUE_0150,25,0-30 Days,Synthetic open issue,Synthetic data steward
